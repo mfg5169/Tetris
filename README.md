@@ -118,7 +118,7 @@ The test suite covers:
 
 ## 🔗 Links
 
-- **Live Demo**: [Play the game online](https://mylesgould.com/projects/Tetris/)
+
 - **Portfolio**: [Myles Gould's Portfolio](https://mylesgould.com)
 - **ge211 Library**: [Graphics Engine Documentation](https://github.com/cmu-ge211/ge211)
 
